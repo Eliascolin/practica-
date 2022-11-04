@@ -76,7 +76,9 @@ header{
 
 
 
-
+.interativo{
+    margin-top: 50px;
+}
 
 .img-main{
    background-image:url(../img/desktop/image-interactive.jpg) ;
